@@ -1,0 +1,1 @@
+auto mode can be disabled and users can also manually track temperature changes using an app . optimal is fitted with temperature sensors , resistance coils and two 2mm micro-fans . batteries exposed to hot temperatures lose their ability to store energy and the hotter the temperature , the faster they lose this ability .

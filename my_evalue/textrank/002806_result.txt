@@ -1,0 +1,1 @@
+the app 's homepage has a row of featured clips , each tagged with a certain topic . it does n't reveal what the maximum number of clips in a project is , but each clip can be no longer than 10 seconds . the app 's homepage has a row of featured clips , each tagged with a certain topic .

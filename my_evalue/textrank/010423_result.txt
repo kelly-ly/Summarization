@@ -1,0 +1,1 @@
+it tells them which appliances are greedily consuming energy , for example . users can train neurio to recognise a light bulb for example , by flicking a light on and off to tell the accompanying app what to detect . and it also allows users to control home appliances remotely by using apps such as ifttt , to start a washing machine while they are out , for example .

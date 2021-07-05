@@ -1,0 +1,3 @@
+Automatic summarization is the process of shortening a set of data computationally to create a subset (a summary) that represents the most important or relevant information within the original content. With the rise of the information age, there has been an explosion in the amount of text data from various sources. As a result, there is an urgent need for technology to help people obtain information efficiently and quickly from massive texts in various languages, fields, and topics. Therefore, automatic text summarization has become a technology for data mining, information filtering, acquisition, and recommendation.
+
+This paper will implement a basic method based on the concept of Natural Language Processing and compare it with three common text summarization models.
